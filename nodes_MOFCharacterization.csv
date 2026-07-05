@@ -1,0 +1,127 @@
+:ID,:LABEL,mof_id,BET surface area (m2/g),Pore size (nm),Pore volume (cm3/g),TGA stability (°C),Zeta potential (mV),Particle size (nm),Hydrophobicity (º),DOI,Title,Year
+CHAR_001,MOFCharacterization,MOF_001,,2.1,,300.0,,,,10.1002/adma.202407194,Zirconium‐Based Metal–Organic Frameworks with Free Hydroxy Groups for Enhanced Perfluorooctanoic Acid Uptake in Water,2024
+CHAR_002,MOFCharacterization,MOF_002,,2.1,,300.0,,,,10.1002/adma.202407194,Zirconium‐Based Metal–Organic Frameworks with Free Hydroxy Groups for Enhanced Perfluorooctanoic Acid Uptake in Water,2024
+CHAR_003,MOFCharacterization,MOF_003,,,,,,,,10.1002/adma.202407194,Zirconium‐Based Metal–Organic Frameworks with Free Hydroxy Groups for Enhanced Perfluorooctanoic Acid Uptake in Water,2024
+CHAR_004,MOFCharacterization,MOF_004,,6,,,,,,10.1002/adma.202413120,Trace Adsorptive Removal of PFAS from Water by Optimizing the UiO‐66 MOF Interface,2025
+CHAR_005,MOFCharacterization,MOF_005,,6,,,,,,10.1002/adma.202413120,Trace Adsorptive Removal of PFAS from Water by Optimizing the UiO‐66 MOF Interface,2025
+CHAR_006,MOFCharacterization,MOF_006,,,,,,,,10.1002/adma.202413120,Trace Adsorptive Removal of PFAS from Water by Optimizing the UiO‐66 MOF Interface,2025
+CHAR_007,MOFCharacterization,MOF_007,,6,,,,,,10.1002/adma.202413120,Trace Adsorptive Removal of PFAS from Water by Optimizing the UiO‐66 MOF Interface,2025
+CHAR_008,MOFCharacterization,MOF_008,,,,,,,,10.1002/adma.202413120,Trace Adsorptive Removal of PFAS from Water by Optimizing the UiO‐66 MOF Interface,2025
+CHAR_009,MOFCharacterization,MOF_009,,,,,,,,10.1002/adma.202413120,Trace Adsorptive Removal of PFAS from Water by Optimizing the UiO‐66 MOF Interface,2025
+CHAR_010,MOFCharacterization,MOF_004,,,,,,,,10.1002/admi.202500166,Highly Efficient Removal of Perfluorooctanoic Acid from Water Using Zirconium Terephthalate (UiO‐66) Gel,2025
+CHAR_011,MOFCharacterization,MOF_010,1415.0,1.16,0.64,,,,,10.1016/j.cattod.2019.12.036,Surfactant-assisted synthesis of nanocrystalline zeolitic imidazolate framework 8 and 67 for adsorptive removal of perfluorooctane sulfonate from aqueous solution,2020
+CHAR_012,MOFCharacterization,MOF_011,1948.0,1.16,0.72,550.0,,70.0,,10.1016/j.cattod.2019.12.036,Surfactant-assisted synthesis of nanocrystalline zeolitic imidazolate framework 8 and 67 for adsorptive removal of perfluorooctane sulfonate from aqueous solution,2020
+CHAR_013,MOFCharacterization,MOF_012,,,,,,,,10.1016/j.cej.2022.139202,A recent overview of per- and polyfluoroalkyl substances (PFAS) removal by functional framework materials,2023
+CHAR_014,MOFCharacterization,MOF_013,,,,,,,,10.1016/j.cej.2022.139202,A recent overview of per- and polyfluoroalkyl substances (PFAS) removal by functional framework materials,2023
+CHAR_015,MOFCharacterization,MOF_014,,,,,,,,10.1016/j.cej.2022.139202,A recent overview of per- and polyfluoroalkyl substances (PFAS) removal by functional framework materials,2023
+CHAR_016,MOFCharacterization,MOF_015,4000.0,,,,,,,10.1016/j.cej.2022.139202,A recent overview of per- and polyfluoroalkyl substances (PFAS) removal by functional framework materials,2023
+CHAR_017,MOFCharacterization,MOF_016,,,,,,,,10.1016/j.cej.2022.139202,A recent overview of per- and polyfluoroalkyl substances (PFAS) removal by functional framework materials,2023
+CHAR_018,MOFCharacterization,MOF_017,,,,,,,,10.1016/j.cej.2022.139202,A recent overview of per- and polyfluoroalkyl substances (PFAS) removal by functional framework materials,2023
+CHAR_019,MOFCharacterization,MOF_018,,,,,,,,10.1016/j.cej.2022.139202,A recent overview of per- and polyfluoroalkyl substances (PFAS) removal by functional framework materials,2023
+CHAR_020,MOFCharacterization,MOF_019,,,,,,,,10.1016/j.cej.2022.139202,A recent overview of per- and polyfluoroalkyl substances (PFAS) removal by functional framework materials,2023
+CHAR_021,MOFCharacterization,MOF_020,,,,,,,,10.1016/j.cej.2022.139202,A recent overview of per- and polyfluoroalkyl substances (PFAS) removal by functional framework materials,2023
+CHAR_022,MOFCharacterization,MOF_021,,,,,,,,10.1016/j.cej.2022.139202,A recent overview of per- and polyfluoroalkyl substances (PFAS) removal by functional framework materials,2023
+CHAR_023,MOFCharacterization,MOF_022,,,,,,,,10.1016/j.cej.2022.139202,A recent overview of per- and polyfluoroalkyl substances (PFAS) removal by functional framework materials,2023
+CHAR_024,MOFCharacterization,MOF_023,,,,,,,,10.1016/j.cej.2022.139202,A recent overview of per- and polyfluoroalkyl substances (PFAS) removal by functional framework materials,2023
+CHAR_025,MOFCharacterization,MOF_004,,,,,,,,10.1016/j.cej.2022.139202,A recent overview of per- and polyfluoroalkyl substances (PFAS) removal by functional framework materials,2023
+CHAR_026,MOFCharacterization,MOF_024,,,,,,,,10.1016/j.cej.2022.139202,A recent overview of per- and polyfluoroalkyl substances (PFAS) removal by functional framework materials,2023
+CHAR_027,MOFCharacterization,MOF_025,,,,,,,,10.1016/j.cej.2022.139202,A recent overview of per- and polyfluoroalkyl substances (PFAS) removal by functional framework materials,2023
+CHAR_028,MOFCharacterization,MOF_011,,,,,,,,10.1016/j.cej.2022.139202,A recent overview of per- and polyfluoroalkyl substances (PFAS) removal by functional framework materials,2023
+CHAR_029,MOFCharacterization,MOF_026,,,,,,,,10.1016/j.cej.2022.139202,A recent overview of per- and polyfluoroalkyl substances (PFAS) removal by functional framework materials,2023
+CHAR_030,MOFCharacterization,MOF_004,1248.0,0.6,0.52,500.0,,,,10.1016/j.cej.2024.153621,Regulation and synthesis of metal–organic frameworks through mixed-ligand strategy: A pathway to enhance adsorption of perfluoroalkyl acids,2024
+CHAR_031,MOFCharacterization,MOF_027,,,,,,,,10.1016/j.cej.2024.153621,Regulation and synthesis of metal–organic frameworks through mixed-ligand strategy: A pathway to enhance adsorption of perfluoroalkyl acids,2024
+CHAR_032,MOFCharacterization,MOF_028,,,,,,,,10.1016/j.cej.2024.153621,Regulation and synthesis of metal–organic frameworks through mixed-ligand strategy: A pathway to enhance adsorption of perfluoroalkyl acids,2024
+CHAR_033,MOFCharacterization,MOF_029,1283.0,,0.58,,,,,10.1016/j.cej.2024.153621,Regulation and synthesis of metal–organic frameworks through mixed-ligand strategy: A pathway to enhance adsorption of perfluoroalkyl acids,2024
+CHAR_034,MOFCharacterization,MOF_007,1187.0,,0.52,,,,,10.1016/j.cej.2024.153621,Regulation and synthesis of metal–organic frameworks through mixed-ligand strategy: A pathway to enhance adsorption of perfluoroalkyl acids,2024
+CHAR_035,MOFCharacterization,MOF_011,1630.0,1.16,0.64,,,,,10.1016/j.cej.2025.160192,"Enhanced removal of PFAS in water using activated ZIF-8 carbons: High adsorption efficiency, repeatable regenerability and reusability",2025
+CHAR_036,MOFCharacterization,MOF_030,,,,,,,,10.1016/j.cej.2025.160192,"Enhanced removal of PFAS in water using activated ZIF-8 carbons: High adsorption efficiency, repeatable regenerability and reusability",2025
+CHAR_037,MOFCharacterization,MOF_031,29.97,268,4.96,,,,79.2,10.1016/j.cej.2025.170898,Fungal chitin nanofibril-MOF hybrids for PFAS remediation in water: mechanism and performance-sustainability trade-off,2025
+CHAR_038,MOFCharacterization,MOF_032,22.95,714,8.19,,,,,10.1016/j.cej.2025.170898,Fungal chitin nanofibril-MOF hybrids for PFAS remediation in water: mechanism and performance-sustainability trade-off,2025
+CHAR_039,MOFCharacterization,MOF_033,22.95,268,,,,,,10.1016/j.cej.2025.170898,Fungal chitin nanofibril-MOF hybrids for PFAS remediation in water: mechanism and performance-sustainability trade-off,2025
+CHAR_040,MOFCharacterization,MOF_034,,,,,,,,10.1016/j.cej.2026.174010,Trimetal-organic framework composite-modified sponge for efficient removal of F− and PFAS from wastewater,2026
+CHAR_041,MOFCharacterization,MOF_035,448.0,,,,,,,10.1016/j.chemosphere.2020.128072,"Polymer-assisted modification of metal-organic framework MIL-96 (Al): influence of HPAM concentration on particle size, crystal morphology and removal of harmful environmental pollutant PFOA",2021
+CHAR_042,MOFCharacterization,MOF_036,,,,,,,,10.1016/j.commatsci.2024.113334,"First principles study of perfluoroalkyl substance adsorption in 
+                  M
+               -MOF-74 metal organic frameworks",2024
+CHAR_043,MOFCharacterization,MOF_037,312.4,2.1,0.38,,,,,10.1016/j.envres.2024.118261,Adsorption of perfluoroalkyl substances on deep eutectic solvent-based amorphous metal-organic framework: Structure and mechanism,2024
+CHAR_044,MOFCharacterization,MOF_004,1148.0,0.6,0.52,500.0,-18.2,200.0,,10.1016/j.envres.2024.118679,Roles of varying carbon chains and functional groups of legacy and emerging per-/polyfluoroalkyl substances in adsorption on metal-organic framework: Insights into mechanism and adsorption prediction,2024
+CHAR_045,MOFCharacterization,MOF_007,1012.0,,,,,,,10.1016/j.envres.2024.118679,Roles of varying carbon chains and functional groups of legacy and emerging per-/polyfluoroalkyl substances in adsorption on metal-organic framework: Insights into mechanism and adsorption prediction,2024
+CHAR_046,MOFCharacterization,MOF_038,1289.0,1.8,0.73,450.0,-16.4,400.0,,10.1016/j.jcis.2022.05.050,Novel MOF-808 metal–organic framework as highly efficient adsorbent of perfluorooctane sulfonate in water,2022
+CHAR_047,MOFCharacterization,MOF_039,1948.0,3.7,,475.0,,500.0,,10.1016/j.jcis.2023.01.032,Synthesis and characterization of PCN-222 metal organic framework and its application for removing perfluorooctane sulfonate from water,2023
+CHAR_048,MOFCharacterization,MOF_040,521.3,1.8,0.42,,,,,10.1016/j.seppur.2022.121449,Enhanced adsorption and photocatalytic removal of PFOA from water by F-functionalized MOF with in-situ-growth TiO2: Regulation of electron density and bandgap,2022
+CHAR_049,MOFCharacterization,MOF_041,,,,,,,,10.1016/j.seppur.2022.121449,Enhanced adsorption and photocatalytic removal of PFOA from water by F-functionalized MOF with in-situ-growth TiO2: Regulation of electron density and bandgap,2022
+CHAR_050,MOFCharacterization,MOF_042,1042.0,1.8,0.62,300.0,15.2,,,10.1016/j.seppur.2023.124774,Preferential elimination of negatively charged micropollutants in water over cerium-based metal–organic frameworks,2023
+CHAR_051,MOFCharacterization,MOF_043,1948.0,0.72,0.76,350.0,-16.8,,,10.1016/j.seppur.2023.124774,Preferential elimination of negatively charged micropollutants in water over cerium-based metal–organic frameworks,2023
+CHAR_052,MOFCharacterization,MOF_044,825.0,,,,,,,10.1016/j.seppur.2023.124774,Preferential elimination of negatively charged micropollutants in water over cerium-based metal–organic frameworks,2023
+CHAR_053,MOFCharacterization,MOF_045,,,,,,,,10.1016/j.seppur.2024.128877,"Photocatalytic degradation of perfluorooctanoic acid (PFOA) by metal organic framework MIL-177-HT: New insights into the role of specific surface area, charge separation and dimensionality",2025
+CHAR_054,MOFCharacterization,MOF_011,,,,,,,,10.1016/j.seppur.2025.132575,Rapid adsorption of per- and polyfluoroalkyl substances (PFAS) on N-doped porous carbons (NPCs) derived from ZIF-8 over a wide pH range: Adsorption behaviors and mechanisms,2025
+CHAR_055,MOFCharacterization,MOF_014,,,,320.0,,,,10.1016/j.seppur.2025.133139,MOF/Polydopamine-modified MXene based mixed matrix membrane for per- and polyfluoroalkyl substances removal from real wastewater,2025
+CHAR_056,MOFCharacterization,MOF_046,,,,,,,,10.1016/j.seppur.2026.137589,High-loading UiO-66@Polycaprolactone electrospun nanofibers for equilibrium-driven removal of Perfluorooctanoic acid from water,2026
+CHAR_057,MOFCharacterization,MOF_004,,,,,,,,10.1016/j.seppur.2026.137589,High-loading UiO-66@Polycaprolactone electrospun nanofibers for equilibrium-driven removal of Perfluorooctanoic acid from water,2026
+CHAR_058,MOFCharacterization,MOF_011,1748.0,1.16,0.66,,,,,10.1016/j.watres.2024.122276,Efficient removal of per- and polyfluoroalkyl substances by a metal-organic framework membrane with high selectivity and stability,2024
+CHAR_059,MOFCharacterization,MOF_047,,,,,,,,10.1021/acsomega.5c05815,"Influence of Charge
+Compensating Anions on the Adsorption
+of Perfluorobutanesulfonate in MOF-808",2025
+CHAR_060,MOFCharacterization,MOF_048,,,,546.3,,,,10.1021/acsomega.5c05815,"Influence of Charge
+Compensating Anions on the Adsorption
+of Perfluorobutanesulfonate in MOF-808",2025
+CHAR_061,MOFCharacterization,MOF_049,,,,,,,,10.1021/acsomega.5c05815,"Influence of Charge
+Compensating Anions on the Adsorption
+of Perfluorobutanesulfonate in MOF-808",2025
+CHAR_062,MOFCharacterization,MOF_050,,,,,,,,10.1021/acsomega.5c05815,"Influence of Charge
+Compensating Anions on the Adsorption
+of Perfluorobutanesulfonate in MOF-808",2025
+CHAR_063,MOFCharacterization,MOF_051,,1.5,,450.0,,,,10.1021/jacs.3c14487,"Exceptionally High
+Perfluorooctanoic Acid Uptake in
+Water by a Zirconium-Based Metal–Organic Framework through
+Synergistic Chemical and Physical Adsorption",2024
+CHAR_064,MOFCharacterization,MOF_052,,,,,,,,10.1021/jacs.5c23392,"Atomically Precise
+Engineering of Synergistic Binding
+Sites in a Zirconium Metal–Organic Framework for the Capture
+of Perfluorooctanoic Acid",2026
+CHAR_065,MOFCharacterization,MOF_038,476.5,,,,,,,10.1021/jacs.5c23392,"Atomically Precise
+Engineering of Synergistic Binding
+Sites in a Zirconium Metal–Organic Framework for the Capture
+of Perfluorooctanoic Acid",2026
+CHAR_066,MOFCharacterization,MOF_022,,,,,,,,10.1021acs.chemmater.1c00324,Efficient Removal of Per- and Polyfluoroalkyl Substances from Water with Zirconium-Based Metal–Organic Frameworks,2021
+CHAR_067,MOFCharacterization,MOF_022,,8,,,,,,10.1021acs.chemmater.5c00246,Balancing Pore Accessibility and Hydrophobicity for Enhanced Perfluorooctanoic Acid Removal: A Case Study on NU-1000,2025
+CHAR_068,MOFCharacterization,MOF_053,,,,,,,,10.1021acs.chemmater.5c00246,Balancing Pore Accessibility and Hydrophobicity for Enhanced Perfluorooctanoic Acid Removal: A Case Study on NU-1000,2025
+CHAR_069,MOFCharacterization,MOF_054,,,,,,,,10.1021acs.chemmater.5c00246,Balancing Pore Accessibility and Hydrophobicity for Enhanced Perfluorooctanoic Acid Removal: A Case Study on NU-1000,2025
+CHAR_070,MOFCharacterization,MOF_022,,,,,,,,10.1021acs.est.1c03974,Systematic Study on the Removal of Per- and Polyfluoroalkyl Substances from Contaminated Groundwater Using Metal–Organic Frameworks,2021
+CHAR_071,MOFCharacterization,MOF_004,,3.4,,,,,,10.1021acs.est.1c03974,Systematic Study on the Removal of Per- and Polyfluoroalkyl Substances from Contaminated Groundwater Using Metal–Organic Frameworks,2021
+CHAR_072,MOFCharacterization,MOF_011,,3.4,,,,,,10.1021acs.est.1c03974,Systematic Study on the Removal of Per- and Polyfluoroalkyl Substances from Contaminated Groundwater Using Metal–Organic Frameworks,2021
+CHAR_073,MOFCharacterization,MOF_015,4000.0,2.9 and 3.4,,,,0.2,,10.1021acs.est.5b00802,es5b00802 1..9,2015
+CHAR_074,MOFCharacterization,MOF_055,,,,,,0.2,,10.1021acs.est.5b00802,es5b00802 1..9,2015
+CHAR_075,MOFCharacterization,MOF_056,,,,,,,,10.1021acs.est.5b00802,es5b00802 1..9,2015
+CHAR_076,MOFCharacterization,MOF_057,,,,,,,,10.1021acs.est.5b00802,es5b00802 1..9,2015
+CHAR_077,MOFCharacterization,MOF_058,,,,,,,,10.1021acs.est.5b00802,es5b00802 1..9,2015
+CHAR_078,MOFCharacterization,MOF_059,162.9,,0.77,400.0,,,,10.1021acs.iecr.5c00232,Topology-Regulated Zirconium Metal–Organic Frameworks for Enhanced Removal of Perfluorinated Pollutants,2025
+CHAR_079,MOFCharacterization,MOF_060,79.9,,0.3,,,,,10.1021acs.iecr.5c00232,Topology-Regulated Zirconium Metal–Organic Frameworks for Enhanced Removal of Perfluorinated Pollutants,2025
+CHAR_080,MOFCharacterization,MOF_061,,,,,,,,10.1021acs.inorgchem.9b00380,Probing the Sorption of Perfluorooctanesulfonate Using Mesoporous Metal–Organic Frameworks from Aqueous Solutions,2019
+CHAR_081,MOFCharacterization,MOF_062,,,,,,,,10.1021acs.inorgchem.9b00380,Probing the Sorption of Perfluorooctanesulfonate Using Mesoporous Metal–Organic Frameworks from Aqueous Solutions,2019
+CHAR_082,MOFCharacterization,MOF_038,,,,,,,,10.1021acs.jchemed.2c00910,Adsorption of a PFAS Utilizing MOF-808: Development of an Undergraduate Laboratory Experiment in a Capstone Course,2023
+CHAR_083,MOFCharacterization,MOF_063,,,,,,,,10.1021acs.jpcc.2c07737,Computational Investigation of Structure–Function Relationship in Fluorine-Functionalized MOFs for PFOA Capture from Water,2023
+CHAR_084,MOFCharacterization,MOF_064,,,,,,,,10.1021acs.jpcc.2c07737,Computational Investigation of Structure–Function Relationship in Fluorine-Functionalized MOFs for PFOA Capture from Water,2023
+CHAR_085,MOFCharacterization,MOF_065,,,,,,,,10.1021acs.jpcc.2c07737,Computational Investigation of Structure–Function Relationship in Fluorine-Functionalized MOFs for PFOA Capture from Water,2023
+CHAR_086,MOFCharacterization,MOF_066,,,,,,,,10.1021acs.jpcc.2c07737,Computational Investigation of Structure–Function Relationship in Fluorine-Functionalized MOFs for PFOA Capture from Water,2023
+CHAR_087,MOFCharacterization,MOF_022,,,,,,,,10.1021acs.jpcc.2c07737,Computational Investigation of Structure–Function Relationship in Fluorine-Functionalized MOFs for PFOA Capture from Water,2023
+CHAR_088,MOFCharacterization,MOF_067,,,,,,,,10.1021acs.jpcc.2c07737,Computational Investigation of Structure–Function Relationship in Fluorine-Functionalized MOFs for PFOA Capture from Water,2023
+CHAR_089,MOFCharacterization,MOF_068,,7.5,,,,,,10.1021acs.jpcc.2c07737,Computational Investigation of Structure–Function Relationship in Fluorine-Functionalized MOFs for PFOA Capture from Water,2023
+CHAR_090,MOFCharacterization,MOF_069,,,,,,,,10.1021acs.jpcc.2c07737,Computational Investigation of Structure–Function Relationship in Fluorine-Functionalized MOFs for PFOA Capture from Water,2023
+CHAR_091,MOFCharacterization,MOF_070,,5.8,,,,,,10.1021acs.jpcc.2c07737,Computational Investigation of Structure–Function Relationship in Fluorine-Functionalized MOFs for PFOA Capture from Water,2023
+CHAR_092,MOFCharacterization,MOF_071,,,,,,,,10.1021acs.jpcc.2c07737,Computational Investigation of Structure–Function Relationship in Fluorine-Functionalized MOFs for PFOA Capture from Water,2023
+CHAR_093,MOFCharacterization,MOF_069,,,,,,,,10.1021acs.langmuir.2c03209,Removal of Low Trace ppb-Level Perfluorooctanesulfonic Acid (PFOS) with ZIF-8 Coatings Involving Adsorbent Degradation,2023
+CHAR_094,MOFCharacterization,MOF_010,,,,,,,,10.1021acs.langmuir.2c03209,Removal of Low Trace ppb-Level Perfluorooctanesulfonic Acid (PFOS) with ZIF-8 Coatings Involving Adsorbent Degradation,2023
+CHAR_095,MOFCharacterization,MOF_011,,,,,,,,10.1021acs.langmuir.2c03209,Removal of Low Trace ppb-Level Perfluorooctanesulfonic Acid (PFOS) with ZIF-8 Coatings Involving Adsorbent Degradation,2023
+CHAR_096,MOFCharacterization,MOF_072,,,,,,,,10.1021acs.langmuir.2c03209,Removal of Low Trace ppb-Level Perfluorooctanesulfonic Acid (PFOS) with ZIF-8 Coatings Involving Adsorbent Degradation,2023
+CHAR_097,MOFCharacterization,MOF_026,,,,,,,,10.1021acs.langmuir.2c03209,Removal of Low Trace ppb-Level Perfluorooctanesulfonic Acid (PFOS) with ZIF-8 Coatings Involving Adsorbent Degradation,2023
+CHAR_098,MOFCharacterization,MOF_073,,,,,,,145.0,10.1021acsanm.0c03050,Hydrophobic Fluorous Metal–Organic Framework Nanoadsorbent for Removal of Hazardous Wastes from Water,2021
+CHAR_099,MOFCharacterization,MOF_007,,,,,,,,10.1021acsanm.0c03050,Hydrophobic Fluorous Metal–Organic Framework Nanoadsorbent for Removal of Hazardous Wastes from Water,2021
+CHAR_100,MOFCharacterization,MOF_074,,,,320.0,,,,10.1021acsapm.5c02791,Postsynthetic Polymerization of UiO-66-NH2 for the Fabrication of Nylon/MOF Hybrid Membranes with Enhanced PFOS and PFOA Uptake,2025
+CHAR_101,MOFCharacterization,MOF_007,,,,320.0,,,,10.1021acsapm.5c02791,Postsynthetic Polymerization of UiO-66-NH2 for the Fabrication of Nylon/MOF Hybrid Membranes with Enhanced PFOS and PFOA Uptake,2025
+CHAR_102,MOFCharacterization,MOF_075,273.6,4,,,,,144.0,10.1021acsestengg.4c00932,Enhancement of the Coadsorption of Per- and Polyfluoroalkyl Substances onto Fe-MOF Derivative in Surface Water through Strengthening Hydrophobic Interactions,2025
+CHAR_103,MOFCharacterization,MOF_076,124.0,,,,,,64.0,10.1021acsestengg.4c00932,Enhancement of the Coadsorption of Per- and Polyfluoroalkyl Substances onto Fe-MOF Derivative in Surface Water through Strengthening Hydrophobic Interactions,2025
+CHAR_104,MOFCharacterization,MOF_017,3367.0,,,,,,48.0,10.1021acsestengg.4c00932,Enhancement of the Coadsorption of Per- and Polyfluoroalkyl Substances onto Fe-MOF Derivative in Surface Water through Strengthening Hydrophobic Interactions,2025
+CHAR_105,MOFCharacterization,MOF_077,,,,,,,,10.1021acsestwater.2c00078,Surface Complex and Nonradical Pathways Contributing to High-Efficiency Degradation of Perfluorooctanoic Acid on Oxygen-Deficient In2O3 Derived from an In-Based Metal Organic Framework,2022
+CHAR_106,MOFCharacterization,MOF_078,,,,,,,,10.1021acsmaterialslett.6c00186,Ultrafast Capture of Per- and Polyfluoroalkyl Substances from Water by Mesoporous Zirconium Metal–Organic Frameworks,2026
+CHAR_107,MOFCharacterization,MOF_079,,,,,,,,10.1021acsmaterialslett.6c00186,Ultrafast Capture of Per- and Polyfluoroalkyl Substances from Water by Mesoporous Zirconium Metal–Organic Frameworks,2026

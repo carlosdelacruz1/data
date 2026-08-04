@@ -1,0 +1,4 @@
+:ID,:LABEL,mof_id,pfas_id,MOF name,PFAS name,N MOF coordination,Intensity,Ligand coordination,Analysis time (min),Media
+COORD_001,CoordinationExperiment,MOF_004,PFAS_156,UiO-66,Perfluorooctanoic acid (PFOA),8,1245.3,6,45,aqueous solution
+COORD_002,CoordinationExperiment,MOF_038,PFAS_054,MOF-808,Perfluorooctane sulfonic acid (PFOS),6,987.1,4,60,aqueous solution
+COORD_003,CoordinationExperiment,MOF_039,PFAS_098,PCN-222,Perfluorobutanesulfonic acid (PFBS),7,1102.8,5,30,aqueous solution
